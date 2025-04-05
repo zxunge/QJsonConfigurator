@@ -27,6 +27,7 @@ SOFTWARE.
 class QJsonConfigurator : public QObject
 {
     Q_OBJECT
+    
 public:
 
 };
